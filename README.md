@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduFlow — Sistema de Gestão Escolar
 
 Sistema completo de gestão escolar com dados reais via **Supabase**.
@@ -97,3 +98,7 @@ eduflow/
 - Tailwind CSS
 - React Router v6
 - Vite
+=======
+# Sistema_Gestao_Escolar
+Sistema para gereciar uma escola
+>>>>>>> 4bee21fe9f58f9ea67f1fa575c218b2b1033b446
